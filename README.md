@@ -1,7 +1,8 @@
 ## Netflix- Clone
-HTML CSS kullanilarak tasarlandi.
 
-Video linki kullanildi.
+Designed using HTML and CSS.
+
+Video link was used.
 
 ## GIF
 
